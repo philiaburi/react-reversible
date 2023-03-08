@@ -196,7 +196,7 @@ function App() {
   };
 
   return (
-    <div className="App container m-auto min-h-screen flex">
+    <div className="App container m-auto min-h-screen flex bg-[#ffffff]">
       <div className="w-full m-auto flex flex-col">
         <h1 className="font-bold text-2xl text-[#696969] py-4 mb-8">
           オンラインオセロ対戦
